@@ -1,0 +1,6 @@
+name: neural-networks-CNNs
+dependencies:
+  - numpy
+  - pandas
+  - keras
+  - matplotlib
